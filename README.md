@@ -6,6 +6,6 @@ The project is  the practical assignment for the course of Fundemental Of Progra
 
 
 #  
-Educational-purpose library management cli app using C++
-First OOP experience in C++
-First using CMake experience
+Educational-purpose library management cli app using C++ ,
+First OOP experience in C++ ,
+First using CMake experience .
